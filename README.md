@@ -25,4 +25,6 @@ Contribution:
 Contributions are welcome! Please fork the repository and open a pull request with your changes. Ensure you adhere to the existing coding guidelines.
 
 License:
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the Apache 2.0. See the LICENSE file for more details.
+
+BTW: Apache 207 best musician ever
