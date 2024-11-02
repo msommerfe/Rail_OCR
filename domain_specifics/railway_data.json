@@ -1,0 +1,387 @@
+{
+    "Albanien": {
+        "Buchstaben-Code": "AL",
+        "Zahlen-Code": 41,
+        "Eisenbahngesellschaft": "HSh"
+    },
+    "Algerien": {
+        "Buchstaben-Code": "DZ",
+        "Zahlen-Code": 92,
+        "Eisenbahngesellschaft": "SNTF"
+    },
+    "Armenien": {
+        "Buchstaben-Code": "AM",
+        "Zahlen-Code": 58,
+        "Eisenbahngesellschaft": "ARM"
+    },
+    "Österreich": {
+        "Buchstaben-Code": "A",
+        "Zahlen-Code": 81,
+        "Eisenbahngesellschaft": "ÖBB"
+    },
+    "Aserbaidschan": {
+        "Buchstaben-Code": "AZ",
+        "Zahlen-Code": 57,
+        "Eisenbahngesellschaft": "AZ"
+    },
+    "Belarussland": {
+        "Buchstaben-Code": "BY",
+        "Zahlen-Code": 21,
+        "Eisenbahngesellschaft": "BC"
+    },
+    "Belgien": {
+        "Buchstaben-Code": "B",
+        "Zahlen-Code": 88,
+        "Eisenbahngesellschaft": "SNCB/NMBS"
+    },
+    "Bosnien-Herzegowina": {
+        "Buchstaben-Code": "BIH",
+        "Zahlen-Code": [
+            44,
+            50,
+            49
+        ],
+        "Eisenbahngesellschaft": [
+            "ŽRS",
+            "ŽFBH"
+        ]
+    },
+    "Bulgarien": {
+        "Buchstaben-Code": "BG",
+        "Zahlen-Code": 52,
+        "Eisenbahngesellschaft": [
+            "BDZ",
+            "SRIC"
+        ]
+    },
+    "China": {
+        "Buchstaben-Code": "RC",
+        "Zahlen-Code": 33,
+        "Eisenbahngesellschaft": "KZD"
+    },
+    "Kroatien": {
+        "Buchstaben-Code": "HR",
+        "Zahlen-Code": 78,
+        "Eisenbahngesellschaft": "HŽ"
+    },
+    "Kuba": {
+        "Buchstaben-Code": "CU",
+        "Zahlen-Code": 40,
+        "Eisenbahngesellschaft": "FC"
+    },
+    "Zypern": {
+        "Buchstaben-Code": "CY",
+        "Zahlen-Code": null,
+        "Eisenbahngesellschaft": null
+    },
+    "Tschechische Republik": {
+        "Buchstaben-Code": "CZ",
+        "Zahlen-Code": 54,
+        "Eisenbahngesellschaft": "ČD"
+    },
+    "Dänemark": {
+        "Buchstaben-Code": "DK",
+        "Zahlen-Code": 86,
+        "Eisenbahngesellschaft": [
+            "DSB",
+            "BS"
+        ]
+    },
+    "Afghanistan": {
+        "Buchstaben-Code": "AF",
+        "Zahlen-Code": 68,
+        "Eisenbahngesellschaft": [
+            "AF"
+        ]
+    },
+    "Ägypten": {
+        "Buchstaben-Code": "ET",
+        "Zahlen-Code": 90,
+        "Eisenbahngesellschaft": "ENR"
+    },
+    "Estland": {
+        "Buchstaben-Code": "EST",
+        "Zahlen-Code": 26,
+        "Eisenbahngesellschaft": "EVR"
+    },
+    "Finnland": {
+        "Buchstaben-Code": "FIN",
+        "Zahlen-Code": 10,
+        "Eisenbahngesellschaft": [
+            "VR",
+            "RHK"
+        ]
+    },
+    "Frankreich": {
+        "Buchstaben-Code": "F",
+        "Zahlen-Code": 87,
+        "Eisenbahngesellschaft": [
+            "SNCF",
+            "RFF"
+        ]
+    },
+    "Georgien": {
+        "Buchstaben-Code": "GE",
+        "Zahlen-Code": 28,
+        "Eisenbahngesellschaft": "GR"
+    },
+    "Deutschland": {
+        "Buchstaben-Code": "D",
+        "Zahlen-Code": 80,
+        "Eisenbahngesellschaft": [
+            "DB",
+            "AAE"
+        ]
+    },
+    "Griechenland": {
+        "Buchstaben-Code": "GR",
+        "Zahlen-Code": 73,
+        "Eisenbahngesellschaft": "CH"
+    },
+    "Ungarn": {
+        "Buchstaben-Code": "H",
+        "Zahlen-Code": 55,
+        "Eisenbahngesellschaft": [
+            "MÁV",
+            "GySEV/ROeEE"
+        ]
+    },
+    "Iran": {
+        "Buchstaben-Code": "IR",
+        "Zahlen-Code": 96,
+        "Eisenbahngesellschaft": "RAI"
+    },
+    "Irak": {
+        "Buchstaben-Code": "IRQ",
+        "Zahlen-Code": 99,
+        "Eisenbahngesellschaft": "IRR"
+    },
+    "Irland": {
+        "Buchstaben-Code": "IRL",
+        "Zahlen-Code": 60,
+        "Eisenbahngesellschaft": "CIE"
+    },
+    "Israel": {
+        "Buchstaben-Code": "IL",
+        "Zahlen-Code": 95,
+        "Eisenbahngesellschaft": "IR"
+    },
+    "Italien": {
+        "Buchstaben-Code": "I",
+        "Zahlen-Code": 83,
+        "Eisenbahngesellschaft": [
+            "FS",
+            "FNME"
+        ]
+    },
+    "Japan": {
+        "Buchstaben-Code": "J",
+        "Zahlen-Code": 42,
+        "Eisenbahngesellschaft": "EJRC"
+    },
+    "Kasachstan": {
+        "Buchstaben-Code": "KZ",
+        "Zahlen-Code": 27,
+        "Eisenbahngesellschaft": "KZH"
+    },
+    "Kirgisistan": {
+        "Buchstaben-Code": "KS",
+        "Zahlen-Code": 59,
+        "Eisenbahngesellschaft": "KRG"
+    },
+    "Lettland": {
+        "Buchstaben-Code": "LV",
+        "Zahlen-Code": 25,
+        "Eisenbahngesellschaft": "LDZ"
+    },
+    "Libanon": {
+        "Buchstaben-Code": "RL",
+        "Zahlen-Code": 98,
+        "Eisenbahngesellschaft": "CEL"
+    },
+    "Liechtenstein": {
+        "Buchstaben-Code": "LIE",
+        "Zahlen-Code": null,
+        "Eisenbahngesellschaft": null
+    },
+    "Litauen": {
+        "Buchstaben-Code": "LT",
+        "Zahlen-Code": 24,
+        "Eisenbahngesellschaft": "LG"
+    },
+    "Luxemburg": {
+        "Buchstaben-Code": "L",
+        "Zahlen-Code": 82,
+        "Eisenbahngesellschaft": "CFL"
+    },
+    "Makedonien (frühere Republik Jugoslawien)": {
+        "Buchstaben-Code": "MK",
+        "Zahlen-Code": 65,
+        "Eisenbahngesellschaft": "CFARYM (MŽ)"
+    },
+    "Malta": {
+        "Buchstaben-Code": "M",
+        "Zahlen-Code": null,
+        "Eisenbahngesellschaft": null
+    },
+    "Moldau": {
+        "Buchstaben-Code": "MD",
+        "Zahlen-Code": 23,
+        "Eisenbahngesellschaft": "CFM"
+    },
+    "Monako": {
+        "Buchstaben-Code": "MC",
+        "Zahlen-Code": null,
+        "Eisenbahngesellschaft": null
+    },
+    "Mongolei": {
+        "Buchstaben-Code": "MGL",
+        "Zahlen-Code": 31,
+        "Eisenbahngesellschaft": "MTZ"
+    },
+    "Montenegro": {
+        "Buchstaben-Code": "ME",
+        "Zahlen-Code": 62,
+        "Eisenbahngesellschaft": "ME"
+    },
+    "Marokko": {
+        "Buchstaben-Code": "MA",
+        "Zahlen-Code": 93,
+        "Eisenbahngesellschaft": "ONCFM"
+    },
+    "Niederlande": {
+        "Buchstaben-Code": "NL",
+        "Zahlen-Code": 84,
+        "Eisenbahngesellschaft": "NS"
+    },
+    "Nord Korea": {
+        "Buchstaben-Code": "PRK",
+        "Zahlen-Code": 30,
+        "Eisenbahngesellschaft": "ZC"
+    },
+    "Tanzania": {
+        "Buchstaben-Code": "TZ",
+        "Zahlen-Code": 89,
+        "Eisenbahngesellschaft": "TZ"
+    },
+    "Norwegen": {
+        "Buchstaben-Code": "N",
+        "Zahlen-Code": 76,
+        "Eisenbahngesellschaft": [
+            "NSB",
+            "JBV"
+        ]
+    },
+    "Polen": {
+        "Buchstaben-Code": "PL",
+        "Zahlen-Code": 51,
+        "Eisenbahngesellschaft": "PKP"
+    },
+    "Portugal": {
+        "Buchstaben-Code": "P",
+        "Zahlen-Code": 94,
+        "Eisenbahngesellschaft": [
+            "CP",
+            "REFER"
+        ]
+    },
+    "Rumänien": {
+        "Buchstaben-Code": "RO",
+        "Zahlen-Code": 53,
+        "Eisenbahngesellschaft": "CFR"
+    },
+    "Russland": {
+        "Buchstaben-Code": "RUS",
+        "Zahlen-Code": 20,
+        "Eisenbahngesellschaft": "RZD"
+    },
+    "Serbien-Montenegro": {
+        "Buchstaben-Code": "SCG",
+        "Zahlen-Code": 72,
+        "Eisenbahngesellschaft": "JŽ"
+    },
+    "Slowakei": {
+        "Buchstaben-Code": "SK",
+        "Zahlen-Code": 56,
+        "Eisenbahngesellschaft": [
+            "ŽSSK",
+            "ŽSR"
+        ]
+    },
+    "Slowenien": {
+        "Buchstaben-Code": "SLO",
+        "Zahlen-Code": 79,
+        "Eisenbahngesellschaft": "SŽ"
+    },
+    "Süd Korea": {
+        "Buchstaben-Code": "ROK",
+        "Zahlen-Code": 61,
+        "Eisenbahngesellschaft": "KNR"
+    },
+    "Spanien": {
+        "Buchstaben-Code": "E",
+        "Zahlen-Code": 71,
+        "Eisenbahngesellschaft": "RENFE"
+    },
+    "Schweden": {
+        "Buchstaben-Code": "S",
+        "Zahlen-Code": 74,
+        "Eisenbahngesellschaft": [
+            "GC",
+            "BV"
+        ]
+    },
+    "Schweiz": {
+        "Buchstaben-Code": "CH",
+        "Zahlen-Code": 85,
+        "Eisenbahngesellschaft": [
+            "SBB/CFF/FFS",
+            "BLS"
+        ]
+    },
+    "Syrien": {
+        "Buchstaben-Code": "SYR",
+        "Zahlen-Code": 97,
+        "Eisenbahngesellschaft": "CFS"
+    },
+    "Tadschikistan": {
+        "Buchstaben-Code": "TJ",
+        "Zahlen-Code": 66,
+        "Eisenbahngesellschaft": "TZD"
+    },
+    "Tunesien": {
+        "Buchstaben-Code": "TN",
+        "Zahlen-Code": 91,
+        "Eisenbahngesellschaft": "SNCFT"
+    },
+    "Türkei": {
+        "Buchstaben-Code": "TR",
+        "Zahlen-Code": 75,
+        "Eisenbahngesellschaft": "TCDD"
+    },
+    "Turkmenistan": {
+        "Buchstaben-Code": "TM",
+        "Zahlen-Code": 67,
+        "Eisenbahngesellschaft": "TRK"
+    },
+    "Ukraine": {
+        "Buchstaben-Code": "UA",
+        "Zahlen-Code": 22,
+        "Eisenbahngesellschaft": "UZ"
+    },
+    "Grossbritannien": {
+        "Buchstaben-Code": "GB",
+        "Zahlen-Code": 70,
+        "Eisenbahngesellschaft": "BR"
+    },
+    "Usbekistan": {
+        "Buchstaben-Code": "UZ",
+        "Zahlen-Code": 29,
+        "Eisenbahngesellschaft": "UTI"
+    },
+    "Vietnam": {
+        "Buchstaben-Code": "VN",
+        "Zahlen-Code": 32,
+        "Eisenbahngesellschaft": "DSVN"
+    }
+}

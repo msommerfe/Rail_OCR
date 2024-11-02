@@ -19,9 +19,9 @@ Navigate to the directory: cd Rail_OCR
 Install the dependencies: pip install -r requirements.txt
 
 # Usage:
-Run the main script: python main.py
-Upload an image for processing or use a camera for real-time recognition.
-Contribution:
+To use this project, you can follow the example code provided in main.py. This example demonstrates how to utilize the Rail_OCR class to predict EVN (European Vehicle Number) from cropped images.
+
+# Contribution:
 Contributions are welcome! Please fork the repository and open a pull request with your changes. Ensure you adhere to the existing coding guidelines.
 
 # Customization and Consulting:
