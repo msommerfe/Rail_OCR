@@ -2,16 +2,18 @@
 Rail_OCR is a powerful and efficient Optical Character Recognition (OCR) tool specifically designed for the railway industry. This project aims to automatically recognize and extract texts and characters from railway-related surfaces such as vehicles and signs.
 
 # Features:
-Accurate Text Recognition: Utilizes advanced OCR algorithms for precise text recognition and extraction.
-Image Preprocessing: Includes tools to enhance image quality and prepare for OCR processing.
-Multilingual Support: Recognizes texts in various languages used in the railway industry.
-Real-time Processing: Fast and efficient processing suitable for real-time applications.
-Easy Integration: Simple to integrate into existing systems and workflows.
+* Accurate Text Recognition: Utilizes advanced OCR algorithms for precise rail-specific text recognition.
+* Reads one-line and three-line EVNs with very high accuracy.
+* Images to be processed must already be cropped. See example images. If you need a detection algorithm that crops the EVNs from random pictures, contact me.
+* The algorithm can determine whether it has correctly recognized an EVN or not.
+* Speed with RTX4090: 20 FPS / 50ms per image.
+![image_0000.png](example_images%2Fimage_0000.png)
+![image_0001.png](example_images%2Fimage_0001.png)
+Upcoming Features:
+* Recognition of EVNs in night shots.
+* Recognition of hazardous materials (Gefahrengüter). If you prefer to recognize characters from other objects, let me know.
+* Further accuracy improvements through fine-tuning with 2 million EVN images.
 
-# Use Cases:
-Recognition of wagon numbers and other identification marks.
-Automation of inspection and maintenance processes.
-Capturing and logging information to improve operational efficiency.
 
 # Installation:
 Clone the repository: git clone https://github.com/msommerfe/Rail_OCR.git
