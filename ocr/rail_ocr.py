@@ -8,8 +8,6 @@ import util as util
 from domain_specifics.evn_checker import EVNChecker
 from common import enums
 
-work_dir = '/mnt/c/dev/git/CAS_Applied_Data_Science/CAS_Final_Project/'
-
 class Rail_OCR:
     def __init__(self, path_to_keras_ocr_model = None, path_to_keras_ocr_model_1_line_EVN= None, path_to_keras_ocr_model_2_line_EVN=None, path_to_keras_ocr_model_3_line_EVN = None):
         self.prediction_model = None
@@ -41,7 +39,7 @@ class Rail_OCR:
             self.prediction_model_3_line_EVN = tf.keras.models.Model(self.model_3_line_EVN.input[0], self.model_3_line_EVN.get_layer(name="dense2").output)
 
 
-        self.evnchecker = EVNChecker(os.path.join(work_dir, "domain_specifics/railway_data.json"))
+        self.evnchecker = EVNChecker("domain_specifics/railway_data.json")
 
     @tf.function
     def fast_predict(self, input_data, class_to_predict):

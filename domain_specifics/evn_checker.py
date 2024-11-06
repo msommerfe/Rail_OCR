@@ -23,7 +23,7 @@ class EVNChecker:
 
     def calculate_EVN_check_digit(self, number):
         """
-        Berechnet die Prüfziffer für eine gegebene Grundnummer.
+        Berechnet die Prüfziffer für eine gegebene Grundnummer. Die Grundnummer muss aus 11 Ziffern bestehen.
 
         Parameters:
         - number: Grundnummer als String
@@ -31,6 +31,9 @@ class EVNChecker:
         Returns:
         - Prüfziffer als Integer
         """
+        if len(number) != 11:
+            return None
+
         total_sum = 0
         length = len(number)
 
