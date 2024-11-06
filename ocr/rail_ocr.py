@@ -4,7 +4,6 @@ from PIL import Image, ImageEnhance, ImageFilter
 import tensorflow as tf
 import numpy as np
 from tensorflow.keras.models import load_model
-#from tensorflow.keras.models import
 import util as util
 from domain_specifics.evn_checker import EVNChecker
 from common import enums
