@@ -1,4 +1,4 @@
-from ocr.rail_ocr import Rail_OCR
+from rail_ocr import Rail_OCR
 from common.enums import prediction_classes
 
 # Initialize the Rail_OCR instance
