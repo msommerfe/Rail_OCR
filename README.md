@@ -6,7 +6,7 @@ Rail_OCR is a powerful and efficient Optical Character Recognition (OCR) tool sp
 * Reads one-line and three-line EVNs with very high accuracy.
 * Images to be processed must already be cropped. See example images. If you need a detection algorithm that crops the EVNs from random pictures, contact me.
 * The algorithm can determine whether it has correctly recognized an EVN or not.
-* Speed with RTX4090: 20 FPS / 50ms per image.
+* Speed with RTX4090: 20 FPS / 50ms per image. 
 
 One-line EVN:
 
